@@ -3,7 +3,8 @@ Esse Repositório é do dojo feito no primeiro GDG Petrópolis Day com o primeir
 
 # Puzzles
 
-  01. FizzBuzz
+  01. FizzBuzz.
+ 
     Neste problema, você deverá exibir uma lista de 1 a 100, um em cada linha, com as seguintes exceções:
     
 			Números divisíveis por 3 deve aparecer como 'Fizz' ao invés do número;
