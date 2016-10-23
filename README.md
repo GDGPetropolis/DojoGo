@@ -1,6 +1,19 @@
 # DojoGo
 Esse Repositório é do dojo feito no primeiro GDG Petrópolis Day com o primeiro desafio FizzBuzz.
 
+## Problema 01 FizzBuzz
+
+## Regras:
+	
+	1. A linguagem utilizada nesse projeto é apenas em GOLang;
+	
+	2. O intuito é resolver o problema em destaque;
+	
+	3. Só pode existir outro problema depois do problema corrente esteja resolvido;
+	
+	4. Todo o código pode ser melhorado sempre;
+	
+
 # Puzzles
 
   01. FizzBuzz.
