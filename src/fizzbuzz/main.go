@@ -2,18 +2,17 @@ package main
 
 import (
 	"fmt"
-	"./dojo"
+	"github.com/allanmatheus/DojoGo/src/fizzbuzz/fizzbuzz"
 )
 
 func main() {
-
-	// var values = []int{1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25}
-
 	fmt.Println("-------------------------------");
 	fmt.Println("Bem vindo ao GDG Petrópolis Day");
 	fmt.Println("-------------------------------");
 
-	var value = 7;
+	var value = 10;
 
-	fmt.Println(dojo.FizzBuzz(value));
+	for i := 1; i <= value; i++ {
+		fmt.Println(fizzbuzz.FizzBuzz(i));
+	}
 }

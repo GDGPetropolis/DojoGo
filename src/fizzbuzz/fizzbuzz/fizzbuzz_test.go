@@ -1,13 +1,10 @@
-package dojo_test
+package fizzbuzz
 
-import (
-	"testing"
-	"../dojo"
-)
+import "testing"
 
 func TestFizzBuzzReturnFizz(t *testing.T) {
 	var value = 3;
-	var result = dojo.FizzBuzz(value);
+	var result = FizzBuzz(value);
 	if result != "Fizz" {
 		t.Error("Erro");
 	}

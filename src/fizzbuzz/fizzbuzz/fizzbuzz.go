@@ -1,8 +1,6 @@
-package dojo
+package fizzbuzz
 
-import (
-	"strconv"
-)
+import "strconv"
 
 func FizzBuzz(value int) string {
 	var result = strconv.Itoa(value);
