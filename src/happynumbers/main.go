@@ -3,7 +3,7 @@ package main
 import (
 	"errors"
 	"fmt"
-	"github.com/allanmatheus/DojoGo/src/happynumbers/happy"
+	"github.com/GDGPetropolis/DojoGo/src/happynumbers/happy"
 	"os"
 	"strconv"
 )

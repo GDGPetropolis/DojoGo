@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/allanmatheus/DojoGo/src/fizzbuzz/fizzbuzz"
+	"github.com/GDGPetropolis/DojoGo/src/fizzbuzz/fizzbuzz"
 )
 
 func main() {
